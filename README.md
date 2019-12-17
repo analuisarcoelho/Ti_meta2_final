@@ -1,1 +1,1 @@
-# Ti_meta2_final
+# Meta 2 da PL2 de Teoria da Informacao
